@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+token.json
+credentials.json
+scanned_ids.json
+known_senders.py
+*.log
+.env
